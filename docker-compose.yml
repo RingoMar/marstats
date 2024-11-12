@@ -1,0 +1,27 @@
+services:
+  mongoserver:
+    environment:
+      - srv_link=mongodb+srv://
+      - database=marstats
+      - collection=ringo
+    build:
+      context: ./backend
+    ports:
+      - "5284:5284"
+    restart: always
+    networks:
+      - msnet
+
+  go-whisperer:
+    environment:
+      - GO_ENV=production
+    restart: always
+    build:
+      context: ./gowhisperer
+    networks:
+      - msnet
+
+
+networks:
+  msnet: 
+    driver: bridge

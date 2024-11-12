@@ -1,0 +1,33 @@
+{
+  "Raw": "@badge-info=subscriber/30;badges=subscriber/24,premium/1;color=#000000;display-name=100T_Infinite;emotes=;flags=;id=a161d188-630c-4c1f-95c0-49140bd3cbc2;login=100t_infinite;mod=0;msg-id=resub;msg-param-cumulative-months=30;msg-param-months=0;msg-param-multimonth-duration=1;msg-param-multimonth-tenure=0;msg-param-should-share-streak=0;msg-param-sub-plan-name=Channel\\sSubscription\\s(Scumperjumper);msg-param-sub-plan=Prime;msg-param-was-gifted=false;room-id=13240194;subscriber=1;system-msg=100T_Infinite\\ssubscribed\\swith\\sPrime.\\sThey've\\ssubscribed\\sfor\\s30\\smonths!;tmi-sent-ts=1730317118652;user-id=48528662;user-type=;vip=0 :tmi.twitch.tv USERNOTICE #scump :yur",
+  "Tags": {
+    "badge-info": "subscriber/30",
+    "badges": "subscriber/24,premium/1",
+    "color": "#000000",
+    "display-name": "100T_Infinite",
+    "emotes": "",
+    "flags": "",
+    "id": "a161d188-630c-4c1f-95c0-49140bd3cbc2",
+    "login": "100t_infinite",
+    "mod": "0",
+    "msg-id": "resub",
+    "msg-param-cumulative-months": "30",
+    "msg-param-months": "0",
+    "msg-param-multimonth-duration": "1",
+    "msg-param-multimonth-tenure": "0",
+    "msg-param-should-share-streak": "0",
+    "msg-param-sub-plan": "Prime",
+    "msg-param-sub-plan-name": "Channel Subscription (Scumperjumper)",
+    "msg-param-was-gifted": "false",
+    "room-id": "13240194",
+    "subscriber": "1",
+    "system-msg": "100T_Infinite subscribed with Prime. They've subscribed for 30 months!",
+    "tmi-sent-ts": "1730317118652",
+    "user-id": "48528662",
+    "user-type": "",
+    "vip": "0"
+  },
+  "Source": { "Nickname": "", "Username": "", "Host": "tmi.twitch.tv" },
+  "Command": "USERNOTICE",
+  "Params": ["#scump", "yur"]
+}

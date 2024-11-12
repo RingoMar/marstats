@@ -1,0 +1,30 @@
+{
+  "Raw": "@badge-info=subscriber/5;badges=subscriber/3,premium/1;color=#FF4700;display-name=Grimm_Star333;emotes=;flags=;id=9bdbf18e-60e7-41c6-bdf8-70d764d5e93e;login=grimm_star333;mod=0;msg-id=submysterygift;msg-param-community-gift-id=8679973651393933659;msg-param-mass-gift-count=5;msg-param-origin-id=8679973651393933659;msg-param-sender-count=5;msg-param-sub-plan=1000;room-id=13240194;subscriber=1;system-msg=Grimm_Star333\\sis\\sgifting\\s5\\sTier\\s1\\sSubs\\sto\\sscump's\\scommunity!\\sThey've\\sgifted\\sa\\stotal\\sof\\s5\\sin\\sthe\\schannel!;tmi-sent-ts=1730317076163;user-id=44603698;user-type=;vip=0 :tmi.twitch.tv USERNOTICE #scump",
+  "Tags": {
+    "badge-info": "subscriber/5",
+    "badges": "subscriber/3,premium/1",
+    "color": "#FF4700",
+    "display-name": "Grimm_Star333",
+    "emotes": "",
+    "flags": "",
+    "id": "9bdbf18e-60e7-41c6-bdf8-70d764d5e93e",
+    "login": "grimm_star333",
+    "mod": "0",
+    "msg-id": "submysterygift",
+    "msg-param-community-gift-id": "8679973651393933659",
+    "msg-param-mass-gift-count": "5",
+    "msg-param-origin-id": "8679973651393933659",
+    "msg-param-sender-count": "5",
+    "msg-param-sub-plan": "1000",
+    "room-id": "13240194",
+    "subscriber": "1",
+    "system-msg": "Grimm_Star333 is gifting 5 Tier 1 Subs to scump's community! They've gifted a total of 5 in the channel!",
+    "tmi-sent-ts": "1730317076163",
+    "user-id": "44603698",
+    "user-type": "",
+    "vip": "0"
+  },
+  "Source": { "Nickname": "", "Username": "", "Host": "tmi.twitch.tv" },
+  "Command": "USERNOTICE",
+  "Params": ["#scump"]
+}

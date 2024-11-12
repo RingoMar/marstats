@@ -1,0 +1,33 @@
+{
+  "Raw": "@badge-info=subscriber/1;badges=subscriber/0,premium/1;color=#FF69B4;display-name=skoookie;emotes=;flags=;id=3ebb2438-0f96-4237-ac01-7d3dcaa30173;login=skoookie;mod=0;msg-id=sub;msg-param-cumulative-months=1;msg-param-months=0;msg-param-multimonth-duration=1;msg-param-multimonth-tenure=0;msg-param-should-share-streak=0;msg-param-sub-plan-name=Channel\\sSubscription\\s(Scumperjumper);msg-param-sub-plan=Prime;msg-param-was-gifted=false;room-id=13240194;subscriber=1;system-msg=skoookie\\ssubscribed\\swith\\sPrime.;tmi-sent-ts=1730317302883;user-id=205541647;user-type=;vip=0 :tmi.twitch.tv USERNOTICE #scump",
+  "Tags": {
+    "badge-info": "subscriber/1",
+    "badges": "subscriber/0,premium/1",
+    "color": "#FF69B4",
+    "display-name": "skoookie",
+    "emotes": "",
+    "flags": "",
+    "id": "3ebb2438-0f96-4237-ac01-7d3dcaa30173",
+    "login": "skoookie",
+    "mod": "0",
+    "msg-id": "sub",
+    "msg-param-cumulative-months": "1",
+    "msg-param-months": "0",
+    "msg-param-multimonth-duration": "1",
+    "msg-param-multimonth-tenure": "0",
+    "msg-param-should-share-streak": "0",
+    "msg-param-sub-plan": "Prime",
+    "msg-param-sub-plan-name": "Channel Subscription (Scumperjumper)",
+    "msg-param-was-gifted": "false",
+    "room-id": "13240194",
+    "subscriber": "1",
+    "system-msg": "skoookie subscribed with Prime.",
+    "tmi-sent-ts": "1730317302883",
+    "user-id": "205541647",
+    "user-type": "",
+    "vip": "0"
+  },
+  "Source": { "Nickname": "", "Username": "", "Host": "tmi.twitch.tv" },
+  "Command": "USERNOTICE",
+  "Params": ["#scump"]
+}
